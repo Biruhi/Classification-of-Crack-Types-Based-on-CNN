@@ -1,1 +1,1 @@
-# Classification-of-Crack-Types-Based-on-CNN
+# Classification-of-Pavement-Distress-Types-Using-CNN
